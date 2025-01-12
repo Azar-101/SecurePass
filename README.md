@@ -24,10 +24,11 @@ This is a Python tool designed to assess the strength of a password based on spe
 ### Example:
 ```bash
 $ python password_strength_checker.py
+
 Password Strength Checker
 Enter your password: P@ssw0rd123
 Password is strong.
-
+```
 
 ##Code Explanation
 Length Check: Password must be at least 8 characters long.
